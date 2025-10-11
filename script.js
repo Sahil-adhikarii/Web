@@ -1,4 +1,4 @@
 const display = () =>{
-    var a = document.querySelector(".meta").innerHTML = "Sahil Adhikari";
+    var a = document.querySelector(".meta").innerHTML = "Whats up";
     
 }
